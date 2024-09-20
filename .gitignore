@@ -1,0 +1,17 @@
+# Ignora arquivos de configuração e pastas do sistema
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.dotnet/
+.git-credentials
+.gitconfig
+.local/
+.pki/
+.profile
+.ssh/
+.sudo_as_admin_successful
+.vboxclient-*
+.vscode/
+snap/
