@@ -1,0 +1,1 @@
+echo Link para Download do Git: https://git-scm.com/downloads > Informacoes_Uteis_Git
